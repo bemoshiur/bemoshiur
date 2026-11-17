@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20hire%20you%20for%20an%20AWS%20project."><img src="https://raw.githubusercontent.com/bemoshiur/bemoshiur/main/assets/banner.gif" alt="S M Moshiur Rahman, AWS Certified Solutions Architect, open to work: AWS cost optimization, migration and DevOps" width="100%"></a>
+<a href="https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you."><img src="https://raw.githubusercontent.com/bemoshiur/bemoshiur/main/assets/banner.gif" alt="S M Moshiur Rahman, AWS FinOps and cloud consultant and founder: AWS cost optimization, migration and DevOps" width="100%"></a>
 
-<h3>🟢 OPEN TO WORK · AVAILABLE FOR HIRE · AWS CONSULTING</h3>
+<h3>☁️ AWS FINOPS · MIGRATION · DEVOPS CONSULTANT · FOUNDER, TICON SYSTEM LIMITED</h3>
 
-[![Hire me on WhatsApp](https://img.shields.io/badge/HIRE_ME-WhatsApp_%2B880_1777--174791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20hire%20you%20for%20an%20AWS%20project.)
+[![Work with me on WhatsApp](https://img.shields.io/badge/WORK_WITH_ME-WhatsApp_%2B880_1777--174791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fin--moshiur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-moshiur/)
 [![Website](https://img.shields.io/badge/Website-bemoshiur.github.io-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bemoshiur.github.io/)
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Partner Accredited](https://img.shields.io/badge/AWS_Partner-Business_%26_Technical_Accredited-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_%C2%B7_IaC-232F3E?style=flat-square&logo=githubactions&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-Cost_Optimization-2E7D32?style=flat-square)
 ![Migration](https://img.shields.io/badge/AWS-Migration-1976D2?style=flat-square)
@@ -20,9 +20,9 @@
 
 ## 👋 About me
 
-I'm an **AWS Certified Solutions Architect and cloud consultant in Dhaka, Bangladesh**, and the founder of [TICON SYSTEM LIMITED](https://www.ticonsys.com/). I help startups and businesses **cut their AWS bill, migrate to AWS safely, and ship through automated DevOps pipelines**.
+I'm an **AWS FinOps and cloud consultant in Dhaka, Bangladesh**, and the founder of [TICON SYSTEM LIMITED](https://www.ticonsys.com/). I help startups and businesses **cut their AWS bill, migrate to AWS safely, and ship through automated DevOps pipelines**.
 
-> **Hiring an AWS consultant?** Send me a WhatsApp message with what you run on AWS and roughly what you spend per month: **[+880 1777-174791](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20hire%20you%20for%20an%20AWS%20project.>)**
+> **Need an AWS consultant?** Send me a WhatsApp message with what you run on AWS and roughly what you spend per month: **[+880 1777-174791](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.>)**
 
 ## 🛠️ Services
 
@@ -34,13 +34,18 @@ I'm an **AWS Certified Solutions Architect and cloud consultant in Dhaka, Bangla
 | 🔒 | **Cloud Security & Architecture Review** | Well-Architected review: IAM least privilege, network boundaries, backups and DR, CloudFront/WAF hardening. |
 | 🇧🇩 | **AWS for Bangladesh businesses** | Local context: BDT billing, EPS payment integration, Bangla/English products. |
 
-## 🏅 Certifications
+## 🏅 AWS credentials
 
-| Certification | Issuer |
-| --- | --- |
-| **AWS Certified Solutions Architect** | Amazon Web Services |
+| Credential | Issuer | Issued |
+| --- | --- | --- |
+| **AWS Partner: Accreditation (Technical)** | Amazon Web Services | Mar 2021 |
+| **AWS Partner: Accreditation (Business)** | Amazon Web Services | Jun 2022 |
+| **AWS Technical Professional** | Amazon Web Services | Jan 2021 |
+| **AWS Business Professional** | Amazon Web Services | Nov 2020 |
+| AWS Partner Solution Training | Amazon Web Services | Apr 2021 |
+| AWS Cloud Practitioner | Amazon Web Services | Feb 2020 · expired Feb 2024 |
 
-📎 Full, verifiable list: **[LinkedIn → Licenses & certifications](https://www.linkedin.com/in/in-moshiur/details/certifications/)**
+📎 Verify on **[LinkedIn → Licenses & certifications](https://www.linkedin.com/in/in-moshiur/details/certifications/)**
 
 ## 📚 Free resource
 
@@ -74,10 +79,10 @@ I'm an **AWS Certified Solutions Architect and cloud consultant in Dhaka, Bangla
 ## ❓ FAQ
 
 **Who is S M Moshiur Rahman?**
-An AWS Certified Solutions Architect and cloud consultant based in Dhaka, Bangladesh, and founder of TICON SYSTEM LIMITED. He works on AWS cost optimization, AWS migration and DevOps automation.
+An AWS FinOps and cloud consultant based in Dhaka, Bangladesh, and founder of TICON SYSTEM LIMITED. He works on AWS cost optimization, AWS migration and DevOps automation.
 
 **How can I reduce my AWS bill?**
-Start with Cost Explorer grouped by service, then check for idle and unattached resources, oversized instances, missing Savings Plans, NAT Gateway data charges, S3 storage classes and log retention. The [free playbook](https://github.com/bemoshiur/aws-cost-optimization-playbook) has the commands. If you want it done for you, [message me on WhatsApp](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20hire%20you%20for%20an%20AWS%20project.>).
+Start with Cost Explorer grouped by service, then check for idle and unattached resources, oversized instances, missing Savings Plans, NAT Gateway data charges, S3 storage classes and log retention. The [free playbook](https://github.com/bemoshiur/aws-cost-optimization-playbook) has the commands. If you want it done for you, [message me on WhatsApp](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.>).
 
 **Can you migrate my servers or application to AWS?**
 Yes. A migration starts with an assessment and a target architecture, then a staged cutover with a tested rollback. It works for on-prem servers, VPS hosts, Heroku and other clouds.
@@ -89,11 +94,11 @@ Message me on WhatsApp **+880 1777-174791** (fastest) or on [LinkedIn](https://w
 
 <div align="center">
 
-### 📩 Let's work together
+### 📩 Let's build something together
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hire_me_now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20hire%20you%20for%20an%20AWS%20project.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-moshiur/)
 
-<sub>AWS consultant Bangladesh · AWS Solutions Architect Dhaka · AWS cost optimization · AWS FinOps · AWS migration consultant · AWS DevOps engineer · cloud consulting Bangladesh · Infrastructure as Code · CI/CD · AWS Well-Architected review · hire AWS consultant</sub>
+<sub>AWS consultant Bangladesh · AWS FinOps consultant Dhaka · AWS cost optimization · AWS FinOps · AWS migration consultant · AWS DevOps engineer · cloud consulting Bangladesh · Infrastructure as Code · CI/CD · AWS Well-Architected review · hire AWS consultant</sub>
 
 </div>
