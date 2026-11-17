@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you."><img src="https://raw.githubusercontent.com/bemoshiur/bemoshiur/main/assets/banner.gif" alt="S M Moshiur Rahman, AWS FinOps and cloud consultant and Director of TICON SYSTEM LIMITED: AWS cost optimization, migration and DevOps" width="100%"></a>
+<a href="https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you."><img src="https://raw.githubusercontent.com/bemoshiur/bemoshiur/main/assets/banner.gif" alt="S M Moshiur Rahman, AWS FinOps and cloud consultant at TICON SYSTEM LIMITED: AWS cost optimization, migration and DevOps" width="100%"></a>
 
-<h3>☁️ AWS FINOPS · MIGRATION · DEVOPS CONSULTANT · DIRECTOR, TICON SYSTEM LIMITED</h3>
+<h3>☁️ AWS FINOPS · MIGRATION · DEVOPS CONSULTANT · TICON SYSTEM LIMITED</h3>
 
 [![Work with me on WhatsApp](https://img.shields.io/badge/WORK_WITH_ME-WhatsApp_%2B880_1777--174791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fin--moshiur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-moshiur/)
@@ -20,7 +20,7 @@
 
 ## 👋 About me
 
-I'm an **AWS FinOps and cloud consultant in Dhaka, Bangladesh**, and Director of [TICON SYSTEM LIMITED](https://www.ticonsys.com/). I help startups and businesses **cut their AWS bill, migrate to AWS safely, and ship through automated DevOps pipelines**.
+I'm an **AWS FinOps and cloud consultant in Dhaka, Bangladesh**, at [TICON SYSTEM LIMITED](https://www.ticonsys.com/). I help startups and businesses **cut their AWS bill, migrate to AWS safely, and ship through automated DevOps pipelines**.
 
 > **Need an AWS consultant?** Send me a WhatsApp message with what you run on AWS and roughly what you spend per month: **[+880 1777-174791](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.>)**
 
@@ -79,7 +79,7 @@ I'm an **AWS FinOps and cloud consultant in Dhaka, Bangladesh**, and Director of
 ## ❓ FAQ
 
 **Who is S M Moshiur Rahman?**
-An AWS FinOps and cloud consultant based in Dhaka, Bangladesh, and Director of TICON SYSTEM LIMITED. He works on AWS cost optimization, AWS migration and DevOps automation.
+An AWS FinOps and cloud consultant based in Dhaka, Bangladesh, at TICON SYSTEM LIMITED. He works on AWS cost optimization, AWS migration and DevOps automation.
 
 **How can I reduce my AWS bill?**
 Start with Cost Explorer grouped by service, then check for idle and unattached resources, oversized instances, missing Savings Plans, NAT Gateway data charges, S3 storage classes and log retention. The [free playbook](https://github.com/bemoshiur/aws-cost-optimization-playbook) has the commands. If you want it done for you, [message me on WhatsApp](<https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%27d%20like%20to%20discuss%20an%20AWS%20project%20with%20you.>).
