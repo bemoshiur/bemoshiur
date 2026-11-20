@@ -4,7 +4,7 @@
 
 <h3>☁️ CLOUD · 🤖 AI · 👩‍💻 DEDICATED ENGINEERING TEAMS · TiCON SYSTEM LIMITED</h3>
 
-[![Book a call](https://img.shields.io/badge/BOOK_A_CALL-cal.com-111827?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/ticoncloud/aws-workload)
+[![Book a call](https://img.shields.io/badge/BOOK_A_CALL-cal.com-111827?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/ticonsys/meeting)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880_1777--174791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fin--moshiur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-moshiur/)
 [![TiCON System Limited](https://img.shields.io/badge/ticonsys.com-TiCON_System_Limited-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ticonsys.com/)
@@ -25,7 +25,7 @@ I'm **S M Moshiur Rahman** at **[TiCON System Limited](https://www.ticonsys.com/
 
 We help startups and growing companies **ship faster**: cloud infrastructure that costs less, AI-first MVPs that are investor-ready, and dedicated engineers who join your team in days, not months. Cloud services are delivered under our cloud brand, **[TiCON Cloud](https://ticoncloud.com/)**.
 
-> **Have a project in mind?** [Book a 30-minute call](https://cal.com/ticoncloud/aws-workload) or send a WhatsApp message to **[+880 1777-174791](https://wa.me/8801777174791)**.
+> **Have a project in mind?** [Book a 30-minute call](https://cal.com/ticonsys/meeting) or send a WhatsApp message to **[+880 1777-174791](https://wa.me/8801777174791)**.
 
 ## 🛠️ What TiCON System Limited does
 
@@ -79,7 +79,7 @@ We help startups and growing companies **ship faster**: cloud infrastructure tha
 
 ### 📩 Let's build something together
 
-[![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-111827?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/ticoncloud/aws-workload)
+[![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-111827?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/ticonsys/meeting)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801777174791)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-moshiur/)
 
